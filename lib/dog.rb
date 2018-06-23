@@ -1,4 +1,3 @@
 #Defining Dog Class
-Class Dog 
+Class Dog
 end
-
